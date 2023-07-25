@@ -1,7 +1,7 @@
 #!/bin/bash
 
-group_names=("Dev" "Ops" "Test")
-user_names=("devuser1" "opuser2" "testuser3")
+group_names=$("Dev" "Ops" "Test")
+user_names=$("devuser1" "opuser2" "testuser3")
 
 
 # Creating groups
